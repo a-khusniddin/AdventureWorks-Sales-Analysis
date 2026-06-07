@@ -3,13 +3,14 @@
 ## Overview
 Interactive 3-page dashboard visualizing Adventure Works retail analysis ($24.9M revenue, 25K orders, 17K customers).
 
-**File:** [adventure_works_dashboard.pbix](powerbi-dashboard\powerbi-part.pbix)
+**File:** [adventure_works_dashboard.pbix](https://github.com/a-khusniddin/AdventureWorks-Sales-Analysis/blob/main/powerbi-dashboard/powerbi-part.pbix)
 
 ---
 
 ## Page 1: Executive Summary
 
-![Page 1 - Executive Summary](powerbi-dashboard\assets\page1_executive_summary.png)
+<img width="1151" height="638" alt="page1_executive_summary" src="https://github.com/user-attachments/assets/075f4845-b0bf-4a53-8144-dd329aa0201c" />
+
 
 **4 KPI Cards:**
 - Total Revenue: $24.9M
@@ -27,7 +28,7 @@ Interactive 3-page dashboard visualizing Adventure Works retail analysis ($24.9M
 
 ## Page 2: Category & Customer Analysis
 
-![Page 2 - Category & Customer Analysis](powerbi-dashboard\assets\page2_category_customer.png)
+<img width="1146" height="642" alt="page2_category_customer" src="https://github.com/user-attachments/assets/8bdf8baa-9970-4aac-a2ab-1b2faa7367cb" />
 
 
 **Revenue vs Profit Bar Chart:** Visual gap shows margin opportunity through bundling.
@@ -42,7 +43,8 @@ Interactive 3-page dashboard visualizing Adventure Works retail analysis ($24.9M
 
 ## Page 3: Regional & Product Performance
 
-![Page 3 - Regional & Product Performance](powerbi-dashboard\assets\page3_regional_product.png)
+<img width="1149" height="656" alt="page3_regional_product" src="https://github.com/user-attachments/assets/40310adf-8756-407b-971b-a4e324ea049c" />
+
 
 **World Map:** Australia darkest (highest revenue $7.4M); North America medium; Europe light.
 
