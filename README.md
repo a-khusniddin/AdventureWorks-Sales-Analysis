@@ -4,7 +4,7 @@ A comprehensive data analysis of Adventure Works' retail business using SQL and 
 
 ---
 
-This project contains Power BI part. You can find README file here: [README.md](powerbi-dashboard\README.md)
+This project contains Power BI part. You can find README file here: [README.md](https://github.com/a-khusniddin/AdventureWorks-Sales-Analysis/blob/main/powerbi-dashboard/README.md)
 ---
 
 ## 📊 Project Overview
